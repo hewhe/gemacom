@@ -22,6 +22,8 @@ Gamersこみゅ
 <!--
 ## 設計書
 <https://docs.google.com/spreadsheets/d/1yptsTcrFOZqqm_y2G62t39gVKnmTGtxb/edit#gid=1172573266>
+-->
 
 <!--### 機能一覧
 <https://docs.google.com/spreadsheets/d/1xp7wGb1wDNlYnysh1SrSXbmMfCZdj4C6sWXVpuBSTHc/edit#gid=0>
+-->
